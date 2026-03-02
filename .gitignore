@@ -10,7 +10,9 @@
 .DS_Store
 /build
 /captures
+/app/release
 .externalNativeBuild
 .cxx
 local.properties
-.idea
+keystore/
+

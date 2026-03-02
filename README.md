@@ -6,3 +6,6 @@ A simple Android launcher, created solely as a helper tool for development.
 
 - Display a list of apps on Android
 - Search by app name and app ID
+
+## Releases
+![](captures/releases-qr-code.png)
