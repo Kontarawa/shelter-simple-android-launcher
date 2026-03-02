@@ -1,9 +1,8 @@
 # SHELTER
-Простой android лаунчер, созданный исключительно как вспомогательный инструмент для разработки
 
-# Возможности
-- отображение списка приложений на android
-- поиск по названию и id приложения
+A simple Android launcher, created solely as a helper tool for development.
 
+## Features
 
-#
+- Display a list of apps on Android
+- Search by app name and app ID
